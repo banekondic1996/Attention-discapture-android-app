@@ -1,7 +1,7 @@
  # <img width="64" height="64" alt="attention_discapture" src="https://github.com/user-attachments/assets/bfd5a1a0-9af6-450a-a040-4318c5f73917" /> Attention Discapture (Android) 
 It screenshots selected apps on open, after 1s by default. </br>
 So you capture feed before it refreshes.</br>
-Feed refreshing in Linkdin and X are driving me nuts. I see something, </br>
+Feed refreshing in Linkedin and X are driving me nuts. I see something, </br>
 then it gets refreshed, and I end up doom scrolling to find it. </br>
 This it to solve that problem
 

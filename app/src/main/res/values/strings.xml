@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Attention Discapture</string>
+    <string name="accessibility_service_label">Attention Discapture Monitor</string>
+    <string name="accessibility_service_description">Monitors app launches to capture screenshots of selected apps for attention tracking.</string>
+    <string name="permission_title">Permissions Required</string>
+    <string name="grant_accessibility">Grant Accessibility Permission</string>
+    <string name="grant_media_projection">Grant Screen Capture Permission</string>
+    <string name="all_permissions_granted">All permissions granted</string>
+    <string name="service_running">Monitoring active</string>
+    <string name="service_stopped">Monitoring inactive</string>
+    <string name="no_apps_selected">No apps selected for monitoring</string>
+    <string name="screenshot_channel_name">Screenshot Service</string>
+    <string name="screenshot_channel_desc">Runs in background to capture screenshots</string>
+    <string name="notification_title">Attention Discapture</string>
+    <string name="notification_text">Monitoring app launches...</string>
+    <string name="delay_hint">Delay (seconds)</string>
+    <string name="search_hint">Search apps...</string>
+    <string name="gallery_title">Screenshots</string>
+    <string name="no_screenshots">No screenshots yet</string>
+</resources>

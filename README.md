@@ -10,5 +10,5 @@ This it to solve that problem </br></br>
 -Either record 3s videos, cause you got media capture permission or
  take normal screenshots, cause permissions reset from time to time
 </pre>
-
+**Demonstration:** </br>
 <img width="340" height="800" src='https://github.com/user-attachments/assets/f7e153ae-27d1-4da3-a1b1-cfbfd3225140'/>
